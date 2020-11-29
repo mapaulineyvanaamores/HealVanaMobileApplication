@@ -12,7 +12,7 @@ The app will also have a daily news section wherein it updates the user about he
 2. Once downloaded, extract the files in a desired folder.
 3. If you haven't downloaded VS code, flutter and Android Studio, check out this website https://flutter.dev/docs/get-started/install.
 3. Simply drag extracted files from the zip file to your workspace in Visual Studio Code after finishing steps 2 and 3.
-4. Open Android Studio and choose an emulator, we encourage you to use Pixel 2 Phone with a size of 5.0" and resolution of 1080x1920 to maximize the use of our application. 
+4. Open Android Studio and choose an emulator, we encourage you to use an android emulator resolution of 1080x1920 to maximize the use of our application. 
 5. Open a new terminal in VS code and type in "flutter run" to build and simulate the program.
 6. It might load for a couple of minutes but enjoy going through the application once it finishes. 
 
